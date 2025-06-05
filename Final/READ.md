@@ -16,5 +16,5 @@
 ### 2. 실행
 ```bash
 python main.py
-
+```
 ### 3. exe 파일 실행 
